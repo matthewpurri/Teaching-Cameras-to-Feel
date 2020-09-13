@@ -1,123 +1,47 @@
----
-layout: default
----
+* * *
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+# Abstract
+The connection between visual input and tactile sensing is critical for object manipulation tasks such as grasping and pushing.
+In this work, we introduce the challenging task of estimating a set of tactile physical properties from visual information. We aim to build a model that learns the complex mapping between visual information and tactile physical properties. We construct a first of its kind image-tactile dataset with over 400 multiview image sequences and the corresponding tactile properties. A total of fifteen tactile physical properties across categories including friction, compliance, adhesion, texture, and thermal conductance are measured and then estimated by our models. We develop a cross-modal framework comprised of an adversarial objective and a novel visuo-tactile joint classification loss. Additionally, we introduce a neural architecture search framework capable of  selecting optimal combinations of viewing angles for estimating a given physical property.
 
 * * *
 
-### Here is an unordered list:
+## Video (90 seconds)
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+<iframe width="420" height="315"
+  src="https://youtu.be/J532toKnly8">
+</iframe>
 
-### And an ordered list:
+* * *
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+## Paper (ECCV 2020)
+<img src="imgs/front-page.png" alt="Front page of research paper">
 
-### And a nested list:
+<a href="https://arxiv.org/pdf/2004.14487.pdf">[arXiv]</a>
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
+If you used or reference our work, please cite our work as follows:
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+@article{purri2020teaching,
+  title={Teaching Cameras to Feel: Estimating Tactile Physical Properties of Surfaces From Images},
+  author={Purri, Matthew and Dana, Kristin},
+  journal={arXiv preprint arXiv:2004.14487},
+  year={2020}
+}
 ```
 
-```
-The final element.
-```
+* * *
+
+## Selected Results
+<img src="imgs/single_image_results.png">
+
+<img src="imgs/ablation_study_result.png">
+
+<img src="imgs/viewpoint_selection_result.png">
+
+
+* * *
+
+### Funding & Collaboration
+This  research  was  supported  by  NSF  Grant  #1715195.
+
+Tactile measurements were done by SynTouch Inc., with the BioTac Toccare, and purchased by Rutgers.
