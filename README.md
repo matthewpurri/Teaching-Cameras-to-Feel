@@ -8,14 +8,12 @@ In this work, we introduce the challenging task of estimating a set of tactile p
 
 ## Video (90 seconds)
 
-<iframe width="420" height="315"
-  src="https://youtu.be/J532toKnly8">
-</iframe>
+<iframe width="560" height="315" src="https://youtu.be/J532toKnly8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 * * *
 
 ## Paper (ECCV 2020)
-<img src="imgs/front-page.png" alt="Front page of research paper">
+<img src="imgs/front-page.png" alt="Front page of research paper" width="184" height="274">
 
 <a href="https://arxiv.org/pdf/2004.14487.pdf">[arXiv]</a>
 
