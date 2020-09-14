@@ -14,7 +14,7 @@ In this work, we introduce the challenging task of estimating a set of tactile p
 
 ## Surface Property Synesthesia Dataset
 
-<img src="imgs/dataset_stats.png" class="center">
+<img src="imgs/dataset_stats.png" class="center" width="914" height="287">
 
 Synesthesia is the production of an experience relating to one sense by a stimulation of another sense. For example, when viewing an image of a hamburger you may unconsciously imagine the taste of the sandwich. In this work, images of surfaces are perceived and the tactile properties of that surface are estimated. To train a model for tactile physical property estimation, we collect a dataset named the Surface Property Synesthesia Dataset (SPS) consisting of pairs of RGB image sequences and tactile measurements. The dataset contains 400+ commonly found indoor material surfaces, including categories such as plastic, leather, wood, denim, and more as shown on the left side of the above Figure. To our knowledge, this dataset contains the largest number of material surfaces of any visuo-tactile dataset, a necessity for learning the complex relation between vision and touch. A majority of the dataset belongs to four of the fifteen material categories. However, each category contains a diverse set of surfaces in terms of both color and pattern as shown in the middle Figure above.
 
