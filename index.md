@@ -10,6 +10,18 @@ In this work, we introduce the challenging task of estimating a set of tactile p
 
 [![](http://img.youtube.com/vi/J532toKnly8/0.jpg)](http://www.youtube.com/watch?v=J532toKnly8 "")
 
+<table align="center" width="700px">
+  <tbody>
+    <tr>
+      <td align="center" width="700px">
+      <center>
+      <iframe width="700" height="420" src="https://www.youtube.com/embed/98bCHTkp5sE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="" align="center"></iframe>
+      </center>
+      </td>
+   </tr>
+  </tbody>
+</table>
+
 * * *
 
 ## Surface Property Synesthesia Dataset
