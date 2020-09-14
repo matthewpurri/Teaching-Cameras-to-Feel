@@ -12,9 +12,9 @@ In this work, we introduce the challenging task of estimating a set of tactile p
   <tbody>
     <tr>
       <td align="center" width="700px">
-      <center>
-      <iframe width="700" height="420" src="https://www.youtube.com/watch?v=J532toKnly8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="" align="center">           </iframe>
-      </center>
+        <center>
+          <iframe width="700" height="420" src="https://www.youtube.com/embed/J532toKnly8" frameborder="0" allow="autoplay" allowfullscreen="" align="center"></iframe>
+        </center>
       </td>
    </tr>
   </tbody>
