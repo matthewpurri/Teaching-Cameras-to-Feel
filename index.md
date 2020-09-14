@@ -8,7 +8,7 @@ In this work, we introduce the challenging task of estimating a set of tactile p
 
 ## Video (90 seconds)
 
-[![](http://img.youtube.com/vi/J532toKnly8/0.jpg)](http://www.youtube.com/watch?v=J532toKnly8 "")
+[!](http://img.youtube.com/vi/J532toKnly8/0.jpg)](http://www.youtube.com/watch?v=J532toKnly8 "")
 
 * * *
 
