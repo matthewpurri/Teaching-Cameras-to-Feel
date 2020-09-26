@@ -31,6 +31,11 @@ Synesthesia is the production of an experience relating to one sense by a stimul
 [LINK TO DOWNLOAD DATASET WILL BE PROVIDED SOON]
 
 * * *
+## News Articles
+<a href="https://techxplore.com/news/2020-05-tactile-properties-surfaces-images.html">TechXplore</a>
+<a href="https://www.newscientist.com/article/2254877-ai-camera-can-tell-what-surfaces-feel-like-with-just-a-glance/">NewScientist</a>
+
+* * *
 
 ## Paper (ECCV 2020)
 <img src="imgs/front-page.png" alt="Front page of research paper" class="center">
