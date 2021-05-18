@@ -1,6 +1,14 @@
 # <a href="https://matthewpurri.github.io/Teaching-Cameras-to-Feel/" >Project Website</a>
 
 * * *
+## Surface Property Synesthesia Dataset
+
+Data exploration code coming soon! 🤞
+<a href="https://drive.google.com/file/d/1cjrQo2S5RwP0wLOjvY4KNomGaQ8ohgwj/view?usp=sharing">[Version 1.0 of dataset]</a>
+
+
+
+* * *
 
 ## Abstract
 The connection between visual input and tactile sensing is critical for object manipulation tasks such as grasping and pushing.
