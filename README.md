@@ -39,11 +39,13 @@ Synesthesia is the production of an experience relating to one sense by a stimul
 
 If you used or reference our work, please cite our work as follows:
 ```
-@article{purri2020teaching,
-  title={Teaching Cameras to Feel: Estimating Tactile Physical Properties of Surfaces From Images},
+@inproceedings{purri2020teaching,
+  title={Teaching Cameras to Feel: Estimating Tactile Physical Properties of Surfaces from Images},
   author={Purri, Matthew and Dana, Kristin},
-  journal={arXiv preprint arXiv:2004.14487},
-  year={2020}
+  booktitle={European Conference on Computer Vision},
+  pages={1--20},
+  year={2020},
+  organization={Springer}
 }
 ```
 
